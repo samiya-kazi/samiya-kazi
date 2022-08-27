@@ -3,19 +3,19 @@
 
 - 🔭 I’m currently working on [Welp](https://welp-ten.vercel.app/)
 
-- 👨‍💻 All of my projects are available at [https://github.com/samiya-kazi](https://github.com/samiya-kazi)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/samiya-kazi)
 
 - 💬 Ask me about **React, Express, Koa, MongoDB, Postgres, Redux**
 
 - 📫 How to reach me: **samiya.kazi09@gmail.com**
 
-- 📄 Know about my experiences: [https://www.linkedin.com/in/samiya-kazi-a980341ab/](https://www.linkedin.com/in/samiya-kazi-a980341ab/)
+- 📄 Know about my experiences: [LinkedIn](https://www.linkedin.com/in/samiya-kazi-a980341ab/)
 
 - ⚡ Fun fact: **I love anything horror.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/samiya-kazi-a980341ab/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/samiya-kazi-a980341ab/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/samiya-kazi-a980341ab/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/samiya-kazi-a980341ab/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
