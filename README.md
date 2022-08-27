@@ -7,11 +7,11 @@
 
 - 💬 Ask me about **React, Express, Koa, MongoDB, Postgres, Redux**
 
-- 📫 How to reach me **samiya.kazi09@gmail.com**
+- 📫 How to reach me: **samiya.kazi09@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/samiya-kazi-a980341ab/](https://www.linkedin.com/in/samiya-kazi-a980341ab/)
+- 📄 Know about my experiences: [https://www.linkedin.com/in/samiya-kazi-a980341ab/](https://www.linkedin.com/in/samiya-kazi-a980341ab/)
 
-- ⚡ Fun fact **I love anything horror.**
+- ⚡ Fun fact: **I love anything horror.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
