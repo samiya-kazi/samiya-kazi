@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Samiya Kazi</h1>
 <h3 align="center">A passionate full-stack developer from Bangladesh.</h3>
 
-- 🔭 I’m currently working on [Welp](https://welp-ten.vercel.app/)
+- 🔭 I’m currently working on [Welp](https://welp-ten.vercel.app/) and [Nutri Diary](https://github.com/samiya-kazi/nutri-diary)
 
 - 👨‍💻 All of my projects are available at [https://github.com/samiya-kazi](https://github.com/samiya-kazi)
 
